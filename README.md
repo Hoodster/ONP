@@ -6,7 +6,7 @@ Do you want to know what RPN is? Click [here](https://en.wikipedia.org/wiki/Reve
 Reverse Polish notation is a easier way to write a mathematical equation by not parenthesized expressions. It's also common calculator type in computing because no bracets are needed.
 
 ## Solution
-Program gets all equation input in reverse Polish polish and prints computed result.
+Program gets all equation input in reverse Polish notation and prints computed result.
 
 ## How to use it
 ### 1. Adding expresson
